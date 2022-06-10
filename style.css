@@ -1,0 +1,20 @@
+.heading
+{
+padding: 15px;
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+body {
+    background-size:cover;
+}
+#status
+{
+font-size: 18px;
+}
+a {
+    font-size: 23px;
+    background-color:aliceblue;
+    border-radius: 6px;
+
+}
