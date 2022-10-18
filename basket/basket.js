@@ -1,5 +1,5 @@
 var status1 = "";
-var img = "";
+var basket_img = "";
 objects = [];
 function preload() {
    img = loadImage("basket.jpg");
