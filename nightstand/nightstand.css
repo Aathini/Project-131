@@ -1,8 +1,9 @@
 body {
-    font-family: 'Quicksand', sans-serif;
+    background-position: center;
+    background-size: cover;
 }
 
-.Header {
+.heading {
     width: 100%;
     text-align: center;
     background-color: rgb(197, 245, 255);
@@ -12,11 +13,10 @@ body {
     padding-top: 7px;
 }
 
-.Title {
-    font-size: 28px;
-    margin-top: 15px;
-}
-.titles {
-    border-radius: 10px;
-    background-color: lightgreen;
+canvas {
+    width: 350px;
+    height: 350px;
+    border: 5px solid black;
+    margin-top: 100px;
+    background: white;
 }
